@@ -24,13 +24,25 @@ main{
     align-items: center;
 }
 
+.form-group_radio{
+    width: 25vw;
+    height: 5vh;
+    margin: 0 15px;
+
+    display: flex;
+    align-items: center;
+
+}
+
 .form-group label{
-    width: 200px;
-    height: 20px;
+    width: 20vw;
+    height: 5vh;
     margin: 5px;
 }
 
 .form-group input{
+    width: 15vw;
+    height: 5vh;
     border: none;
     border-radius: 3px;
 }
